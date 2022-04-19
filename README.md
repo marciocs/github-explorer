@@ -1,11 +1,6 @@
 # github-explorer
 Aplicação para melhor para aprendizado em React utilizando as ferramentas: Webpack, Babel, Webpack Dev Server, SASS, Source Maps, Fast refresh!!! Companents, props, state e hooks foram usados e usado TypeScript no projeto para adicionar tipagem estática à aplicação.
 
-<h4 align="center">
-  github-explorer
-</h4>
-
-
 ## :rocket: Technologies
 
 This project was developed at the [RocketSeat Ignite ReactJs](https://rocketseat.com.br) with the following technologies:
